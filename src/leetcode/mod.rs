@@ -10,3 +10,6 @@ mod reverse_nodes_in_k_group;
 mod first_missing_positive;
 mod n_queens;
 mod maximum_subarray53;
+mod spiral_matrix54;
+mod jump_game55;
+mod merge_intervals56;
