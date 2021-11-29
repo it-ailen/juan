@@ -13,3 +13,6 @@ mod maximum_subarray53;
 mod spiral_matrix54;
 mod jump_game55;
 mod merge_intervals56;
+mod permutation_sequence60;
+mod rotate_list61;
+mod unique_paths_ii63;
