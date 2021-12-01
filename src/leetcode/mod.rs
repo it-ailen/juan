@@ -16,3 +16,6 @@ mod merge_intervals56;
 mod permutation_sequence60;
 mod rotate_list61;
 mod unique_paths_ii63;
+mod minimum_path_sum64;
+mod text_justification68;
+mod simplify_path71;
