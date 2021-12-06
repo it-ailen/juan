@@ -19,3 +19,7 @@ mod unique_paths_ii63;
 mod minimum_path_sum64;
 mod text_justification68;
 mod simplify_path71;
+mod edit_distance72;
+mod set_matrix_zeroes73;
+mod search_a_2d_matrix74;
+mod minimum_window_substring76;
