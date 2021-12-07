@@ -18,4 +18,7 @@ pub trait Problem<INPUT, OUTPUT> {
     fn id() -> usize;
     fn name() -> &'static str;
     fn url() -> &'static str;
+    fn tags() -> Vec<&'static str> {
+        vec![]
+    }
 }

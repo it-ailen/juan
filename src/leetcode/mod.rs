@@ -23,3 +23,4 @@ mod edit_distance72;
 mod set_matrix_zeroes73;
 mod search_a_2d_matrix74;
 mod minimum_window_substring76;
+mod largest_rectangle_in_histogram84;
